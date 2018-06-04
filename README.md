@@ -1,2 +1,0 @@
-# laravel-dropzone
-# laravel-dropzone

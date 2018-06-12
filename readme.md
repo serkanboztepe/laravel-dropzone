@@ -1,8 +1,13 @@
-## How to install
+## Açıklama
 
-First copy `.env.example` file to `.env`. Then simply clone this repository and setup your database credentials in `.env`. Now do the following steps
+Laravel projenizde dropzone kullanmak isterseniz yaptığım projeyi inceleyebilir ve uygulayabilirsiniz.
 
- - Update Composer by running `composer update`
- - Run  `php artisan migrate`
+## Nasıl Yüklenir
 
-That's all. Thanks.
+- `.env.example` dosyasını `.env` olarak kopyalayın.
+- `composer install` komutunu çalıştırın.
+- `php artisan migrate` komutunu çalıştırın.
+
+## İletişim
+
+Herhangi bir problemde `serkanboztepe02@gmail.com` adresine mail atabilirsiniz.
